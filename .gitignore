@@ -24,3 +24,6 @@
 *.iml
 *.ipr
 /out/
+
+### ignore all the files in test folder
+test/
